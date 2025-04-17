@@ -1,0 +1,11 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Mission
+  link: /mission/
+- name: Resources
+  link: /resources/
+  sublinks:
+    - name: Prompt Library
+      link: /resources/prompt-library/
