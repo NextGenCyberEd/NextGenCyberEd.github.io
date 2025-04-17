@@ -1,0 +1,72 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Next Gen Cyber Ed
+email: contact@nextgencybered.org
+description: >- # this means to ignore newlines until "baseurl:"
+  Next Gen Cyber Ed bridges the gap between K-12 cybersecurity education and 
+  industry resources, creating pathways for students to explore and succeed 
+  in cybersecurity careers.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nextgencybered.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: NextGenCyberEd
+
+# Build settings
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Just the Docs configuration
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+aux_links:
+  "GitHub":
+    - "https://github.com/NextGenCyberEd/NextGenCyberEd.github.io"
+
+# Custom color scheme variables
+# Color scheme supports a blue-green cybersecurity theme
+brand_color_primary: "#096C86"  # Teal blue
+brand_color_secondary: "#283B42"  # Dark slate
+brand_color_accent: "#92DAEA"  # Light blue
+
+# Enable copy code button for code blocks
+enable_copy_code_button: true
+
+# Footer content
+footer_content: "Copyright &copy; 2025 Next Gen Cyber Ed. Distributed by a <a href=\"https://github.com/NextGenCyberEd/NextGenCyberEd.github.io/blob/main/LICENSE\">Creative Commons License.</a>"
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

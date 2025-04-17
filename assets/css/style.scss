@@ -1,0 +1,72 @@
+---
+---
+
+// Custom variables
+$cybersec-blue: {{ site.brand_color_primary | default: "#096C86" }};
+$cybersec-dark: {{ site.brand_color_secondary | default: "#283B42" }};
+$cybersec-light: {{ site.brand_color_accent | default: "#92DAEA" }};
+
+// Just the Docs theme customization
+:root {
+  --body-heading-color: #{$cybersec-blue};
+  --link-color: #{$cybersec-blue};
+  --btn-primary-color: #{$cybersec-blue};
+}
+
+// Custom button styles
+.btn-purple {
+  background-color: $cybersec-blue;
+  
+  &:hover {
+    background-color: darken($cybersec-blue, 10%);
+  }
+}
+
+// Custom grid layout for resource cards
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.grid-item {
+  border: 1px solid #eee;
+  border-radius: 0.25rem;
+  padding: 1.5rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  
+  h3 {
+    margin-top: 0;
+    color: $cybersec-blue;
+  }
+}
+
+// Callout highlighting for important info
+.note {
+  background-color: lighten($cybersec-light, 10%);
+  border-left: 4px solid $cybersec-blue;
+  border-radius: 4px;
+  padding: 0.8rem;
+  margin: 1.5rem 0;
+}
+
+// Code blocks styling
+pre.highlight {
+  border-radius: 5px;
+  
+  code {
+    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  }
+}
+
+// Enhance accessibility with better focus indicators
+a:focus, button:focus, [tabindex="0"]:focus {
+  outline: 3px solid lighten($cybersec-blue, 30%);
+  outline-offset: 2px;
+}
