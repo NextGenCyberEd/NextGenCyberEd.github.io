@@ -39,10 +39,10 @@ aux_links:
     - "https://github.com/NextGenCyberEd/NextGenCyberEd.github.io"
 
 # Custom color scheme variables
-# Color scheme supports a blue-green cybersecurity theme
-brand_color_primary: "#096C86"  # Teal blue
-brand_color_secondary: "#283B42"  # Dark slate
-brand_color_accent: "#92DAEA"  # Light blue
+# Next Gen Cyber Ed brand colors
+brand_color_primary: "#D62731"  # Red
+brand_color_secondary: "#202020"  # Black
+brand_color_accent: "#F8A5A9"  # Light red
 
 # Enable copy code button for code blocks
 enable_copy_code_button: true
