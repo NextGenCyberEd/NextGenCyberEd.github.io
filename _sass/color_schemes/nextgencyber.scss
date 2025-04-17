@@ -1,25 +1,15 @@
-// NextGenCyber color scheme
+// Change link, button, and nav color from purple to brand red
+$link-color: #D62731;
+$btn-primary-color: #D62731;
 
-// Main colors
-$body-text-color: #000000; // Black for main text
-$body-heading-color: #D62731; // Red for headings
-$link-color: #D62731; // Red for links
-$btn-primary-color: #D62731; // Red for primary buttons
-$base-button-color: #D62731; // Red for all buttons
-
-// UI elements
-$sidebar-color: #f5f5f5; // Light gray for sidebar
-$nav-child-link-color: #505050; // Darker gray for navigation
-$code-background-color: #f5f5f5; // Light gray for code blocks
-$border-color: #e0e0e0; // Light gray for borders
-$search-result-preview-color: #000000; // Black for search result text
-
-// Pagination
-$pagination-button-color: #D62731; // Red for pagination
-
-// Callouts
-$callouts-background: lighten(#F8A5A9, 10%); // Light red background for callouts
-$callouts-border-color: #D62731; // Red for callout borders
-
-// Feedback colors
-$feedback-color: #000000; // Black for feedback text
+// Custom button style
+.btn-red {
+  @extend .btn;
+  color: white;
+  background-color: #D62731;
+  
+  &:hover {
+    color: white;
+    background-color: darken(#D62731, 10%);
+  }
+}

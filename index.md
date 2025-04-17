@@ -33,7 +33,7 @@ Check out our growing library of resources designed for cybersecurity education:
   <div class="grid-item">
     <h3>Prompt Library</h3>
     <p>A collection of effective prompts for large language models to enhance cybersecurity education.</p>
-    <a href="/resources/prompt-library" class="btn btn-purple">Explore Prompts</a>
+    <a href="/resources/prompt-library" class="btn btn-red">Explore Prompts</a>
   </div>
 </div>
 
