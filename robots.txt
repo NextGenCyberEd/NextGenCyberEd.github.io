@@ -1,6 +1,0 @@
-# Allow all robots complete access
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://nextgencybered.github.io/sitemap.xml
