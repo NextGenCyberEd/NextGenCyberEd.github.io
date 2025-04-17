@@ -6,39 +6,92 @@ permalink: /resources/prompt-library/
 
 # Prompt Library
 
-Welcome to the Next Gen Cyber Ed Prompt Library. This collection contains carefully crafted prompts for large language models (LLMs) that can be used for educational purposes in cybersecurity and beyond.
+Welcome to the Next Gen Cyber Ed Prompt Library - a curated collection of effective prompts and templates for Large Language Models (LLMs).
 
-## What is a Prompt?
+## What are LLM Prompts?
 
-A prompt is a set of instructions given to an LLM (like ChatGPT, Claude, or Bard) that guides the AI in generating specific types of content. Well-crafted prompts can help you get more consistent, useful responses from these AI systems.
+Prompts are instructions given to Large Language Models like ChatGPT, Claude, or Bard that guide the AI in generating specific types of content. Well-crafted prompts can dramatically improve the quality, relevance, and usefulness of AI responses.
 
 ## Categories
 
 Our Prompt Library is organized into the following categories:
 
-### Educational Prompts
+### [Educational Prompts](/resources/prompt-library/educational/)
 
-Prompts designed to help with teaching and learning:
+Prompts designed for teaching and learning:
+- Study Guide Generator
+- Lesson Plan Creator
+- Feedback Formulator
+- Study Crew System
+- Quiz Generation
+- Interactive Learning
 
-- [Study Guide Generator](/resources/prompt-library/study-guide-generator/) - Creates detailed study guides with memory techniques, practice questions, and visual learning tools
-- [Lesson Plan Creator](/resources/prompt-library/lesson-plan-creator/) - Generates complete lesson plans with differentiated activities and assessment strategies
-- [Feedback Formulator](/resources/prompt-library/feedback-formulator/) - Helps create constructive, balanced feedback on student work with specific improvement strategies
-- [Study Crew System](/resources/prompt-library/study-crew-system/) - Creates an interactive multi-agent learning experience with specialized coaches
+### [Technical Prompts](/resources/prompt-library/technical/)
 
-### Technical Prompts
+Prompts for coding, documentation, and technical tasks:
+- Code Explainer for Beginners
+- Code Generation
+- Debugging
+- Documentation
+- Code Review
 
-Prompts designed to help with understanding technical concepts:
+### [Business Prompts](/resources/prompt-library/business/)
 
-- [Code Explainer for Beginners](/resources/prompt-library/code-explainer/) - Transforms complex code into beginner-friendly explanations with visual metaphors and real-world examples
+Prompts for professional and organizational use:
+- Marketing
+- Emails
+- Reports
+- Customer Interaction
+- Strategy Development
+
+### [Creative Prompts](/resources/prompt-library/creative/)
+
+Prompts for creative writing and content creation:
+- Storytelling
+- Poetry
+- Scriptwriting
+- Content Creation
+
+### [Conversational Prompts](/resources/prompt-library/conversational/)
+
+Prompts for dialogue and discussion:
+- Chitchat
+- Debate
+- Interview
+- Role-playing
+
+### [Specialized Prompts](/resources/prompt-library/specialized/)
+
+Prompts for specific fields:
+- Medical
+- Legal
+- Scientific
+- Cybersecurity
+
+### [Templates](/resources/prompt-library/templates/)
+
+General frameworks for prompt design:
+- Step-by-Step Guides
+- Persona-Based Templates
+- Format-Specific Templates
 
 ## How to Use This Library
 
-1. Browse the categories and select a prompt that meets your needs
+Each prompt in our library follows a consistent format:
+
+1. **Title**: What the prompt does
+2. **Purpose**: Why you might use this prompt
+3. **Target Models**: Which LLMs this prompt works best with
+4. **Instructions**: The actual prompt template to copy
+5. **Variations**: Alternative approaches for different needs
+
+To use a prompt:
+1. Browse or search to find a relevant prompt
 2. Copy the prompt template
-3. Paste it into your preferred LLM (e.g., ChatGPT, Claude)
-4. Replace any placeholders with your specific information
-5. Submit and interact with the response
+3. Replace any placeholders (text in [BRACKETS])
+4. Paste into your preferred LLM
+5. Modify as needed for your specific requirements
 
 ## Contribute
 
-We welcome contributions to our Prompt Library. If you have a prompt that's been particularly effective for cybersecurity education, please [contact us](mailto:contact@nextgencybered.org).
+We welcome contributions to our Prompt Library! Visit our [GitHub repository](https://github.com/NextGenCyberEd/Prompt_Library) to contribute.

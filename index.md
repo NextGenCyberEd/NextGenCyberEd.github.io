@@ -13,9 +13,28 @@ We strengthen cybersecurity education by connecting educators and students with 
 
 ## Resources
 
-We provide free resources for students and educators, including:
+<div class="resources-grid">
+  <div class="resource-card">
+    <h3>Prompt Library</h3>
+    <p>A curated collection of effective prompts for large language models to enhance cybersecurity education and learning.</p>
+    <a href="/resources/prompt-library/" class="btn">Explore Prompts</a>
+  </div>
+  
+  <div class="resource-card">
+    <h3>Educational Resources</h3>
+    <p>Free resources for students and educators interested in cybersecurity, with pathways for different learning levels.</p>
+    <a href="/mission/" class="btn">Coming Soon</a>
+  </div>
+  
+  <div class="resource-card">
+    <h3>Industry Connections</h3>
+    <p>Building bridges between K-12 education and cybersecurity professionals to create meaningful learning opportunities.</p>
+    <a href="/mission/" class="btn">Learn More</a>
+  </div>
+</div>
 
-- [Prompt Library](/resources/prompt-library/) - A collection of educational and technical prompts for large language models
-- More resources coming soon!
+## Get Involved
 
-[Learn more about our mission](/mission/)
+We're always looking for contributors, partners, and collaborators who share our mission of improving cybersecurity education. Whether you're an educator, industry professional, or student, there are ways to get involved.
+
+[Contact us](mailto:contact@nextgencybered.org) to learn more about our organization or to discuss how you can contribute.

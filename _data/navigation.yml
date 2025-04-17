@@ -1,11 +1,26 @@
 - name: Home
   link: /
+
 - name: About
   link: /about/
+
 - name: Mission
   link: /mission/
-- name: Resources
-  link: /resources/
+
+- name: Prompt Library
+  link: /resources/prompt-library/
   sublinks:
-    - name: Prompt Library
-      link: /resources/prompt-library/
+    - name: Educational Prompts
+      link: /resources/prompt-library/educational/
+    - name: Technical Prompts
+      link: /resources/prompt-library/technical/
+    - name: Business Prompts
+      link: /resources/prompt-library/business/
+    - name: Creative Prompts
+      link: /resources/prompt-library/creative/
+    - name: Conversational Prompts
+      link: /resources/prompt-library/conversational/
+    - name: Specialized Prompts
+      link: /resources/prompt-library/specialized/
+    - name: Templates
+      link: /resources/prompt-library/templates/

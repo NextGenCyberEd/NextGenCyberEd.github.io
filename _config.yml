@@ -28,6 +28,13 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nextgencybered.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: NextGenCyberEd
 
+# Brand colors
+brand_color_primary: "#D62731"  # Red
+brand_color_secondary: "#202020"  # Black
+
+# Disable posts
+show_posts: false
+
 # Build settings
 theme: minima
 plugins:
