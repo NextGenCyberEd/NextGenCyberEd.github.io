@@ -1,7 +1,6 @@
 ---
+layout: default
 ---
-
-@import "minima";
 
 // Brand Colors
 $primary-color: #D62731;
@@ -12,154 +11,11 @@ $light-color: #f8f9fa;
 $text-color: #333333;
 $light-text: #ffffff;
 
-// Layout
-$content-width: 1200px;
-$sidebar-width: 260px;
-$content-padding: 30px;
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  line-height: 1.8;
-  color: $text-color;
-  background-color: $light-color;
-}
-
-// Left navigation and content layout
-.site-wrapper {
-  display: flex;
-  max-width: $content-width;
-  margin: 0 auto;
-  
-  @media (max-width: 768px) {
-    flex-direction: column;
-  }
-}
-
-.sidebar {
-  width: $sidebar-width;
-  background-color: $secondary-color;
-  padding: 20px;
-  color: $light-text;
-  
-  @media (max-width: 768px) {
-    width: 100%;
-    order: 2;
-  }
-  
-  .site-title {
-    font-size: 1.4rem;
-    margin-bottom: 20px;
-    display: block;
-    font-weight: bold;
-    color: $light-text;
-    
-    &:hover {
-      text-decoration: none;
-      color: $primary-color;
-    }
-  }
-  
-  .nav-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    
-    li {
-      margin-bottom: 5px;
-    }
-    
-    a {
-      color: $light-text;
-      display: block;
-      padding: 8px 10px;
-      border-radius: 4px;
-      
-      &:hover, &.active {
-        background-color: rgba(255,255,255,0.1);
-        text-decoration: none;
-      }
-      
-      &.active {
-        background-color: $primary-color;
-      }
-    }
-    
-    .sub-menu {
-      padding-left: 20px;
-      margin-top: 5px;
-      display: none;
-      
-      &.open {
-        display: block;
-      }
-    }
-    
-    .has-submenu > a {
-      position: relative;
-      
-      &::after {
-        content: "+";
-        position: absolute;
-        right: 10px;
-      }
-      
-      &.open::after {
-        content: "-";
-      }
-    }
-  }
-}
-
-.main-content {
-  flex: 1;
-  padding: $content-padding;
-  
-  @media (max-width: 768px) {
-    order: 1;
-  }
-}
-
-// Links
-a {
-  color: $primary-color;
-  &:hover {
-    color: darken($primary-color, 15%);
-    text-decoration: none;
-  }
-}
-
-// Header
-.site-header {
-  border-top: 5px solid $primary-color;
-  border-bottom: 1px solid $light-color;
-  background-color: $dark-color;
-  
-  .site-title {
-    color: $light-text;
-    &:visited {
-      color: $light-text;
-    }
-  }
-  
-  .site-nav {
-    .page-link {
-      color: $light-text;
-    }
-  }
-}
-
-// Footer
-.site-footer {
-  border-top: 1px solid $light-color;
-  background-color: $dark-color;
-  color: $light-text;
-  
-  a {
-    color: $accent-color;
-    &:hover {
-      color: lighten($accent-color, 15%);
-    }
-  }
+// Customizations for just-the-docs
+:root {
+  --body-heading-color: #{$primary-color};
+  --link-color: #{$primary-color};
+  --btn-primary-color: #{$primary-color};
 }
 
 // Buttons
@@ -191,30 +47,6 @@ a {
   border-left: 4px solid $primary-color;
   padding: 1rem;
   margin: 1rem 0;
-}
-
-// Code
-code {
-  background-color: #f5f5f5;
-  padding: 0.2rem 0.4rem;
-  border-radius: 0.25rem;
-}
-
-pre code {
-  display: block;
-  overflow-x: auto;
-  padding: 1rem;
-  background-color: $dark-color;
-  color: $light-text;
-  border-radius: 0.25rem;
-}
-
-// Headings
-.post-content {
-  h1, h2, h3, h4, h5, h6 {
-    color: $primary-color;
-    margin-top: 2rem;
-  }
 }
 
 // Resource grid for displaying prompts

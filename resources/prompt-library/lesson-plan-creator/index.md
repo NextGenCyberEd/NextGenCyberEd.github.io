@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Lesson Plan Creator
+parent: Prompt Library
+grand_parent: Resources
+nav_order: 2
 permalink: /resources/prompt-library/lesson-plan-creator/
 ---
 

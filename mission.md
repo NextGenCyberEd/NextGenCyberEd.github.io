@@ -1,12 +1,15 @@
 ---
-layout: page
+layout: default
 title: Mission
+nav_order: 3
 permalink: /mission/
 ---
 
 # Our Mission
+{: .fs-9 }
 
 At Next Gen Cyber Ed, our mission is to bridge the gap between K-12 cybersecurity education and industry resources, creating pathways for students to explore and succeed in cybersecurity careers.
+{: .fs-6 .fw-300 }
 
 ## Our Vision
 

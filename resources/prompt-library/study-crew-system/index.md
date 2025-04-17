@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Study Crew System
+parent: Prompt Library
+grand_parent: Resources
+nav_order: 4
 permalink: /resources/prompt-library/study-crew-system/
 ---
 

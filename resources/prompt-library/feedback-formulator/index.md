@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Feedback Formulator
+parent: Prompt Library
+grand_parent: Resources
+nav_order: 3
 permalink: /resources/prompt-library/feedback-formulator/
 ---
 

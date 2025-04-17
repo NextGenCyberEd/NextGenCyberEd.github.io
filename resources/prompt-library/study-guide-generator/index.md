@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Study Guide Generator
+parent: Prompt Library
+grand_parent: Resources
+nav_order: 1
 permalink: /resources/prompt-library/study-guide-generator/
 ---
 

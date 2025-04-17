@@ -36,9 +36,15 @@ brand_color_secondary: "#202020"  # Black
 show_posts: false
 
 # Build settings
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+# Just the Docs configuration
+color_scheme: light
+search_enabled: true
+heading_anchors: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

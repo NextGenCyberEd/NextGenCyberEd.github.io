@@ -1,12 +1,17 @@
 ---
-layout: page
+layout: default
 title: Prompt Library
+parent: Resources
+nav_order: 1
 permalink: /resources/prompt-library/
+has_children: true
 ---
 
 # Prompt Library
+{: .fs-9 }
 
 Welcome to the Next Gen Cyber Ed Prompt Library - a curated collection of effective prompts and templates for Large Language Models (LLMs).
+{: .fs-6 .fw-300 }
 
 ## What are LLM Prompts?
 
@@ -16,64 +21,45 @@ Prompts are instructions given to Large Language Models like ChatGPT, Claude, or
 
 Our Prompt Library is organized into the following categories:
 
-### [Educational Prompts](/resources/prompt-library/educational/)
+### Educational Prompts
+{: .text-delta }
 
 Prompts designed for teaching and learning:
-- Study Guide Generator
-- Lesson Plan Creator
-- Feedback Formulator
-- Study Crew System
-- Quiz Generation
-- Interactive Learning
+- [Study Guide Generator](/resources/prompt-library/study-guide-generator/)
+- [Lesson Plan Creator](/resources/prompt-library/lesson-plan-creator/)
+- [Feedback Formulator](/resources/prompt-library/feedback-formulator/)
+- [Study Crew System](/resources/prompt-library/study-crew-system/)
 
-### [Technical Prompts](/resources/prompt-library/technical/)
+### Technical Prompts
+{: .text-delta }
 
 Prompts for coding, documentation, and technical tasks:
-- Code Explainer for Beginners
-- Code Generation
-- Debugging
-- Documentation
-- Code Review
+- [Code Explainer for Beginners](/resources/prompt-library/code-explainer/)
 
-### [Business Prompts](/resources/prompt-library/business/)
+### Business Prompts
+{: .text-delta }
 
-Prompts for professional and organizational use:
-- Marketing
-- Emails
-- Reports
-- Customer Interaction
-- Strategy Development
+Prompts for professional and organizational use
 
-### [Creative Prompts](/resources/prompt-library/creative/)
+### Creative Prompts
+{: .text-delta }
 
-Prompts for creative writing and content creation:
-- Storytelling
-- Poetry
-- Scriptwriting
-- Content Creation
+Prompts for creative writing and content creation
 
-### [Conversational Prompts](/resources/prompt-library/conversational/)
+### Conversational Prompts
+{: .text-delta }
 
-Prompts for dialogue and discussion:
-- Chitchat
-- Debate
-- Interview
-- Role-playing
+Prompts for dialogue and discussion
 
-### [Specialized Prompts](/resources/prompt-library/specialized/)
+### Specialized Prompts
+{: .text-delta }
 
-Prompts for specific fields:
-- Medical
-- Legal
-- Scientific
-- Cybersecurity
+Prompts for specific fields
 
-### [Templates](/resources/prompt-library/templates/)
+### Templates
+{: .text-delta }
 
-General frameworks for prompt design:
-- Step-by-Step Guides
-- Persona-Based Templates
-- Format-Specific Templates
+General frameworks for prompt design
 
 ## How to Use This Library
 

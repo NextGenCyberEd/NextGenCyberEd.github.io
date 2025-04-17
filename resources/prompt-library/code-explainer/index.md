@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: Code Explainer for Beginners
+parent: Prompt Library
+grand_parent: Resources
+nav_order: 5
 permalink: /resources/prompt-library/code-explainer/
 ---
 

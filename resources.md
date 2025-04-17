@@ -1,12 +1,16 @@
 ---
-layout: page
+layout: default
 title: Resources
+nav_order: 4
 permalink: /resources/
+has_children: true
 ---
 
 # Resources
+{: .fs-9 }
 
 Next Gen Cyber Ed provides a variety of resources for students and educators interested in cybersecurity. Our goal is to make high-quality educational materials accessible to everyone.
+{: .fs-6 .fw-300 }
 
 ## Current Resources
 

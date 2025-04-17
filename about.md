@@ -1,12 +1,15 @@
 ---
-layout: page
+layout: default
 title: About
+nav_order: 2
 permalink: /about/
 ---
 
 # About Next Gen Cyber Ed
+{: .fs-9 }
 
 Next Gen Cyber Ed is a nonprofit organization dedicated to bridging the gap between K-12 cybersecurity education and industry resources. Our goal is to create clear pathways for students to explore and succeed in cybersecurity careers.
+{: .fs-6 .fw-300 }
 
 ## What We Do
 
