@@ -1,7 +1,17 @@
 ---
 ---
 
-// Additional custom styles
+// Add a red accent line to the top of the site
+.site-header::before {
+  content: "";
+  display: block;
+  height: 4px;
+  background-color: #D62731;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
 
 // Custom grid layout for resource cards
 .grid-container {
@@ -21,6 +31,10 @@
     transform: translateY(-5px);
     box-shadow: 0 10px 20px rgba(0,0,0,0.1);
   }
+  
+  h3 {
+    color: #D62731;
+  }
 }
 
 // Callout styling
@@ -32,54 +46,11 @@
   margin: 1.5rem 0;
 }
 
-// Add a red accent line to the top of the site
-.site-header::before {
-  content: "";
-  display: block;
-  height: 4px;
-  background-color: #D62731;
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-}
-
-// Override spacing for better readability
-.main-content {
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 2em;
-    margin-bottom: 0.5em;
-  }
+// Style buttons using brand colors
+.btn-primary, .btn-purple {
+  background-color: #D62731 !important;
   
-  h1:first-child {
-    margin-top: 0.5em;
+  &:hover {
+    background-color: darken(#D62731, 10%) !important;
   }
-}
-
-// Enhance buttons
-.btn {
-  font-weight: 600;
-  
-  &.btn-primary {
-    background-color: #D62731;
-    
-    &:hover {
-      background-color: darken(#D62731, 10%);
-    }
-  }
-}
-
-// Style code blocks
-pre.highlight {
-  border-radius: 5px;
-  
-  code {
-    font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
-  }
-}
-
-// Focus indicators for accessibility
-a:focus, button:focus, [tabindex="0"]:focus {
-  outline: 3px solid lighten(#D62731, 30%);
-  outline-offset: 2px;
 }
