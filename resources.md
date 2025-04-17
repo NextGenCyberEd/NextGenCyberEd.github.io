@@ -31,4 +31,4 @@ We're continuously working on developing and curating new resources. Here's what
 - **Tools Database**: Curated collection of free cybersecurity tools suitable for educational use
 - **Webinar Library**: Recorded sessions with industry experts on various cybersecurity topics
 
-If you have suggestions for resources you'd like to see, please [contact us](mailto:contact@nextgencybered.org).
+If you have suggestions for resources you'd like to see, please [contact us](mailto:info@nextgencybered.org).

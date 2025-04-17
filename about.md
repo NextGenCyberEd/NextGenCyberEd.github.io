@@ -6,25 +6,56 @@ permalink: /about/
 ---
 
 # About Next Gen Cyber Ed
-{: .fs-9 }
 
-Next Gen Cyber Ed is a nonprofit organization dedicated to bridging the gap between K-12 cybersecurity education and industry resources. Our goal is to create clear pathways for students to explore and succeed in cybersecurity careers.
-{: .fs-6 .fw-300 }
+Next Gen Cyber Ed is a nonprofit organization founded with a clear mission: to create meaningful connections between K-12 cybersecurity education and the rapidly evolving cybersecurity industry.
+
+## Our Story
+
+The cybersecurity industry faces a significant talent shortage, with hundreds of thousands of positions remaining unfilled. At the same time, many students lack awareness of cybersecurity as a viable and rewarding career path. We recognized this disconnect and established Next Gen Cyber Ed to be the bridge that connects these two worlds.
+
+Our organization brings together educators, industry professionals, and students to create a robust ecosystem that nurtures the next generation of cybersecurity talent. By providing resources, facilitating partnerships, and creating learning opportunities, we aim to build a diverse and skilled cybersecurity workforce.
 
 ## What We Do
 
-We focus on several key areas:
+We focus on three core areas:
 
-1. **Resource Curation**: We identify, evaluate, and share high-quality cybersecurity educational resources that are accessible and relevant for K-12 students and educators.
+### 1. Resource Curation and Development
 
-2. **Curriculum Development**: We work with industry experts to create and adapt cybersecurity curricula that align with industry needs and educational standards.
+We identify, curate, and develop high-quality cybersecurity educational resources that are accessible and engaging for K-12 students and educators. Our resources include:
 
-3. **Educator Support**: We provide professional development opportunities and support networks for teachers interested in incorporating cybersecurity education into their classrooms.
+- Prompt libraries for AI tools that support cybersecurity education
+- Curriculum recommendations and resources
+- Hands-on learning activities
+- Educational tools and technologies
 
-4. **Industry Connections**: We facilitate partnerships between schools and cybersecurity professionals, creating mentorship opportunities and real-world learning experiences.
+### 2. Partnership Building
 
-## Our Team
+We connect schools and educators with:
 
-Next Gen Cyber Ed is run by a dedicated team of educators, cybersecurity professionals, and volunteers who share a passion for expanding access to cybersecurity education.
+- Industry professionals for mentorship and guidance
+- Companies offering job shadowing and internship opportunities
+- Cybersecurity organizations providing specialized knowledge
+- Educational institutions offering pathways to further education
 
-[Contact us](mailto:contact@nextgencybered.org) to learn more about our organization or to get involved.
+### 3. Community Development
+
+We foster a supportive community by:
+
+- Facilitating networking between educators and industry professionals
+- Providing platforms for knowledge sharing
+- Recognizing achievements in cybersecurity education
+- Advocating for increased focus on cybersecurity in K-12 education
+
+## Our Impact
+
+Through our efforts, we aim to:
+
+- Increase student awareness and interest in cybersecurity careers
+- Improve the quality and availability of cybersecurity education
+- Enhance educator confidence and competence in teaching cybersecurity concepts
+- Build a more diverse and inclusive cybersecurity workforce
+- Strengthen national cybersecurity capabilities through education
+
+## Join Our Mission
+
+Whether you're an educator looking for resources, an industry professional wanting to give back, or a supporter who believes in our mission, there are many ways to get involved with Next Gen Cyber Ed. Together, we can shape the future of cybersecurity education and build a safer digital world.

@@ -6,38 +6,64 @@ permalink: /mission/
 ---
 
 # Our Mission
-{: .fs-9 }
 
-At Next Gen Cyber Ed, our mission is to bridge the gap between K-12 cybersecurity education and industry resources, creating pathways for students to explore and succeed in cybersecurity careers.
-{: .fs-6 .fw-300 }
+At Next Gen Cyber Ed, our mission is clear and focused:
+
+{: .highlight }
+> We bridge the gap between K-12 cybersecurity education and industry resources, creating pathways for students to explore and succeed in cybersecurity careers.
 
 ## Our Vision
 
 We envision a future where:
 
-- Every student has access to high-quality cybersecurity education regardless of their background or location
-- Educators feel confident and supported in teaching cybersecurity concepts
-- Industry professionals actively engage with education to develop the next generation of talent
-- The cybersecurity workforce is diverse, skilled, and prepared to meet evolving challenges
+- Every student has the opportunity to explore cybersecurity as a potential career path
+- Educators are equipped with the resources, knowledge, and support to provide high-quality cybersecurity education
+- A diverse and well-prepared cybersecurity workforce meets the growing demand for talent
+- Schools and industry partners collaborate effectively to create meaningful learning experiences
+- Technology and education evolve together to address emerging cybersecurity challenges
 
 ## Our Approach
 
-We strengthen cybersecurity education by:
+We take a multifaceted approach to fulfilling our mission:
 
-1. **Connecting Resources**: We identify and curate the best freely available resources for cybersecurity education.
+### For Educators
 
-2. **Building Bridges**: We facilitate connections between educators, students, and industry professionals.
+We equip educators with comprehensive knowledge and resources to deliver effective cybersecurity instruction. Our support includes:
 
-3. **Creating Tools**: We develop accessible tools and frameworks that make cybersecurity education more effective and engaging.
+- Connecting them with vetted, high-quality curriculum providers
+- Facilitating access to professional development opportunities
+- Providing engaging hands-on activities and simulations
+- Offering guidance on incorporating cybersecurity across the curriculum
 
-4. **Supporting Educators**: We provide teachers with the resources they need to confidently integrate cybersecurity into their curriculum.
+### For Students
 
-5. **Engaging Students**: We create opportunities for students to explore cybersecurity through hands-on, relevant learning experiences.
+We create pathways for students to explore cybersecurity and develop relevant skills through:
 
-## Our Values
+- Age-appropriate resources that make cybersecurity concepts accessible
+- Connections to mentors and role models in the field
+- Opportunities to participate in competitions and challenges
+- Information about educational and career pathways
 
-- **Accessibility**: We believe cybersecurity education should be available to all students.
-- **Quality**: We maintain high standards for all resources and programs we develop or recommend.
-- **Relevance**: We ensure our work reflects current industry practices and needs.
-- **Collaboration**: We believe in the power of partnerships to create meaningful educational experiences.
-- **Innovation**: We continuously seek new approaches to make cybersecurity education more effective and engaging.
+### For Industry Partners
+
+We facilitate meaningful engagement between industry and education by:
+
+- Creating channels for industry to contribute expertise and resources
+- Developing frameworks for effective school-industry partnerships
+- Identifying opportunities for collaborative projects and programs
+- Advocating for educational approaches that align with industry needs
+
+## Core Values
+
+Our work is guided by these core values:
+
+- **Accessibility**: Making cybersecurity education available to all students
+- **Quality**: Providing only the most reliable, up-to-date resources
+- **Collaboration**: Fostering partnerships between education and industry
+- **Innovation**: Embracing new approaches to cybersecurity education
+- **Diversity**: Promoting inclusion and representation in the cybersecurity field
+- **Integrity**: Maintaining the highest ethical standards in all our activities
+
+## Join Our Mission
+
+We invite educators, industry professionals, policymakers, and supporters to join us in our mission. Together, we can prepare the next generation of cybersecurity professionals and create a more secure digital future.
