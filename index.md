@@ -46,4 +46,4 @@ Check out our growing library of resources designed for cybersecurity education:
 
 We welcome contributions from educators, cybersecurity professionals, and anyone passionate about improving cybersecurity education. 
 
-[Contact Us](mailto:contact@nextgencybered.org){: .btn .btn-outline }
+[Contact Us](mailto:info@nextgencybered.org){: .btn .btn-outline }
