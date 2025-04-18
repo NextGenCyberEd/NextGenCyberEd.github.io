@@ -2,56 +2,38 @@
 layout: page
 title: Prompt Library
 parent: Resources
-nav_order: 1
 has_children: true
+nav_order: 1
 permalink: /resources/prompt-library/
 ---
 
 # Prompt Library
-{: .fs-9 }
 
-Welcome to the Next Gen Cyber Ed Prompt Library - a curated collection of effective prompts and templates for Large Language Models (LLMs).
-{: .fs-6 .fw-300 }
+A curated collection of effective prompts and templates for Large Language Models (LLMs).
 
-## What are LLM Prompts?
+## About
 
-Prompts are instructions given to Large Language Models like ChatGPT, Claude, or Bard that guide the AI in generating specific types of content. Well-crafted prompts can dramatically improve the quality, relevance, and usefulness of AI responses.
+This repository contains a variety of prompts designed to help you get the most out of LLMs such as GPT-4, Claude, Llama, and others. Whether you're looking to improve your coding, creative writing, business communication, or educational content, you'll find useful prompts and templates here.
 
 ## Categories
 
-Our Prompt Library is organized into the following categories:
+The prompts are organized into the following categories:
 
-### Educational Prompts
-{: .text-delta }
+- [Educational Prompts](./educational/): Designed for educators and students
+- [Technical Prompts](./technical/): Focused on coding and technical skill development
 
-Prompts designed for teaching and learning:
-- [Study Guide Generator](/resources/prompt-library/study-guide-generator/)
-- [Lesson Plan Creator](/resources/prompt-library/lesson-plan-creator/)
-- [Feedback Formulator](/resources/prompt-library/feedback-formulator/)
-- [Study Crew System](/resources/prompt-library/study-crew-system/)
+## How to Use
 
-### Technical Prompts
-{: .text-delta }
+These prompts are designed to be copied and pasted into your favorite LLM. Feel free to modify them to better suit your specific needs.
 
-Prompts for coding, documentation, and technical tasks:
-- [Code Explainer for Beginners](/resources/prompt-library/code-explainer/)
+### Tips for Effective Prompting
 
-## How to Use This Library
+1. **Be specific**: The more specific your prompt, the better the results.
+2. **Provide context**: Give the LLM enough information to understand what you're looking for.
+3. **Use examples**: When possible, include examples of the type of output you want.
+4. **Iterate**: Don't be afraid to refine your prompt based on the results you get.
+5. **Experiment**: Try different approaches to see what works best for your needs.
 
-Each prompt in our library follows a consistent format:
+## Contributing
 
-1. **Title**: What the prompt does
-2. **Description**: Why you might use this prompt
-3. **Prompt Template**: The actual prompt template to copy
-4. **Usage Notes**: Alternative approaches and customization tips
-
-To use a prompt:
-1. Browse or search to find a relevant prompt
-2. Copy the prompt template
-3. Replace any placeholders (text in [BRACKETS])
-4. Paste into your preferred LLM
-5. Modify as needed for your specific requirements
-
-## Contribute
-
-We welcome contributions to our Prompt Library! Visit our [GitHub repository](https://github.com/NextGenCyberEd/NextGenCyberEd.github.io) to contribute.
+We welcome contributions to the Prompt Library! If you have prompts that have worked well for you, please consider sharing them with the community.
