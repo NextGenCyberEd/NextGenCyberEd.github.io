@@ -22,13 +22,13 @@ Our Prompt Library contains carefully crafted prompts for large language models 
 - **Educators** create lesson plans, provide better feedback, and develop engaging learning materials
 - **Anyone** interested in using AI tools to enhance their cybersecurity learning experience
 
-## Coming Soon
+### [LLM Access Guide](/resources/llm-access-guide/)
 
-We're continuously working on developing and curating new resources. Here's what we have planned:
+New to AI assistants? Our LLM Access Guide provides step-by-step instructions for accessing and effectively using popular large language models like Claude, ChatGPT, and Gemini. Learn how to:
 
-- **Curriculum Guides**: Framework-aligned cybersecurity curriculum resources for K-12 educators
-- **Learning Pathways**: Structured guides to help students progress from beginner to advanced levels
-- **Tools Database**: Curated collection of free cybersecurity tools suitable for educational use
-- **Webinar Library**: Recorded sessions with industry experts on various cybersecurity topics
+- **Get started** with free and paid AI assistant options
+- **Choose the right model** for your cybersecurity learning needs
+- **Implement best practices** for educational use in classrooms
+- **Address security and privacy considerations** when using AI tools
 
 If you have suggestions for resources you'd like to see, please [contact us](mailto:info@nextgencybered.org).
