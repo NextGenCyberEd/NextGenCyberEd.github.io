@@ -35,6 +35,11 @@ Check out our growing library of resources designed for cybersecurity education:
     <p>A collection of effective prompts for large language models to enhance cybersecurity education.</p>
     <a href="/resources/prompt-library" class="btn btn-red">Explore Prompts</a>
   </div>
+  <div class="grid-item">
+    <h3>LLM Access Guide</h3>
+    <p>Step-by-step instructions for accessing and using AI assistants like Claude, ChatGPT, and Gemini.</p>
+    <a href="/resources/llm-access-guide" class="btn btn-red">Get Started</a>
+  </div>
 </div>
 
 ## Get Involved
